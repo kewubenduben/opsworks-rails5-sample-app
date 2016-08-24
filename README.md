@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # opsworks-rails5-sample-app
+# opsworks-rails5-sample-app
